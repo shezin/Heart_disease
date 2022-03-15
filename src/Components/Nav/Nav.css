@@ -1,0 +1,13 @@
+.main-header{
+background-color: rgb(88, 144, 216);
+height: 50px;
+width: 100%;
+}
+
+.heading{
+display: flex;
+color: white;
+font-weight: bold;
+padding: 10px 0 0 10px;
+font-size: larger;
+}

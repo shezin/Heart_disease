@@ -1,0 +1,18 @@
+.main-container{
+    display: flex;
+    margin-top: 4rem;
+    margin-left:  6rem; ;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    padding-top: 5rem;
+    
+}
+@media screen and (max-width: 480px) {
+    .main-container{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
